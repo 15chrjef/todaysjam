@@ -9,6 +9,8 @@ import {
   Image
 } from 'react-native';
 import { Components } from 'exponent';
+import ellipse from  '/Users/jchri/Desktop/greenfield/'
+
 
 //homepage with active groups and find/create button
 export default class DiscoverScreen extends React.Component { 

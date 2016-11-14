@@ -26,7 +26,7 @@
     "react-native": "github:exponentjs/react-native#sdk-10.1.2",
     "react-native-autogrow-textinput": "^2.1.1",
     "react-native-material-design": "^0.3.7",
-    "request": "^2.75.0"
+    "request": "^2.75.0",
   },
   "devDependencies": {
     "babel-core": "^6.18.0",
